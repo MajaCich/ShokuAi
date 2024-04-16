@@ -3,8 +3,7 @@ description: Witaj! ShokuAi to mobilna aplikacja do generowania przepisów i two
 show_downloads: true
 
 baseurl: # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://paulinalewicka1.github.io/ShokuAi/" # change this to the base hostname & protocol for your site
-
+url: "https://majacich.github.io/ShokuAi/" # change this to the base hostname & protocol for your site
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

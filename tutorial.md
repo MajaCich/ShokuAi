@@ -7,4 +7,4 @@ ref: tutorial
 order: 0
 ---
 
-Tutaj coś będzie
+<a href="{{ site.github.pdf_url }}" class="btnMail">Przycisk 2</a>

@@ -7,4 +7,4 @@ ref: tutorial
 order: 0
 ---
 
-<a href="{{ site.github.pdf_url }}" class="btnMail">Przycisk 2</a>
+<a href="{{ site.github.pdf_url }}" class="btnMail">Pobierz instrukcję obsługi</a>

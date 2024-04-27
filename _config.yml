@@ -6,7 +6,7 @@ baseurl: "/ShokuAi" # change this to the subpath of your site, e.g. /blog. Leave
 url: "https://majacich.github.io" # change this to the base hostname & protocol for your site
 
 github:
-  pdf_url: "https://majacich.github.io/ShokuAi/instruction.pdf"
+  pdf_url: "https://majacich.github.io/ShokuAi/instruction.pdf",
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

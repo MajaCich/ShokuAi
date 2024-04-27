@@ -8,3 +8,5 @@ order: 0
 ---
 
 <a href="{{ site.github.pdf_url }}" class="btnMail">Pobierz instrukcję obsługi</a>
+<a href="/app-release.apk" class="btnDownload">Pobierz aplikację</a>
+

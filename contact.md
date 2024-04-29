@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Kontakt
-tagline: Create a contact form and you are good to go
+tagline: Skontaktuj się z nami
 ref: contact
-order: 1
+order: 2
 ---
 
 Lider zespołu programistycznego:
 
 298766@stud.umk.pl
 
-<a href="mailto:298766@stud.umk.pl" class="btnMail">Wyślij e-mail</a>
+[Wyślij e-mail]({{ mailto:298766@stud.umk.pl }}){: .btnColor }

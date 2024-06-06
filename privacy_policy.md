@@ -33,7 +33,7 @@ Twoje dane osobowe mogą być udostępniane tylko w celu realizacji naszych usł
 
 
 #### **6. Bezpieczeństwo danych**
-Podjęliśmy odpowiednie środki techniczne i organizacyjne, aby chronić Twoje dane przed nieautoryzowanym dostępem, utratą lub nieuprawnionymwykorzystaniem.
+Podjęliśmy odpowiednie środki techniczne i organizacyjne, aby chronić Twoje dane przed nieautoryzowanym dostępem, utratą lub nieuprawnionym wykorzystaniem.
 
 
 #### **7. Zmiany w Polityce Prywatności**

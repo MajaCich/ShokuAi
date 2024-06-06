@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Polityka prywatności
-tagline: Data ostatniej aktualizacji: 05.06.2024r.
+tagline: Data ostatniej aktualizacji - 05.06.2024r.
+permalink: /privacyPolicy.html
 ref: privacyPolicy
 order: 3
 ---

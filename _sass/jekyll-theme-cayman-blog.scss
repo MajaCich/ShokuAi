@@ -331,6 +331,11 @@ a {
     margin-bottom: 1em;
   }
 
+  .abc {
+    font-weight: bold;
+    color: $section-headings-color
+  }
+
   code {
     padding: 2px 4px;
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;

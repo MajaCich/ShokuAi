@@ -100,7 +100,7 @@ Rozwiń menu (1) i wybierz przycisk (2). Na ukazanej stronie należy dodać zdj�
 <div class="image-row">
   <img src="assets\images\ss_plus.jpg" alt="ss_plus">
   <img src="assets\images\ss_plus_wlasny.jpg" alt="ss_plus_zdj">
-  <img src="assets\images\ss_dodaj.jpg" alt="ss_zdj">
+  <img src="assets\images\ss_zdj.jpg" alt="ss_zdj">
 </div>
 
 ## 2. Ulubione {#ulubione}

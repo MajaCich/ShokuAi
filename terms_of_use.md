@@ -42,4 +42,4 @@ order: 4
 <p><span class="abc">8.1.</span> W sprawach nieuregulowanych niniejszymi warunkami mają zastosowanie obowiązujące przepisy prawa.</p>
 <p><span class="abc">8.2.</span> Wszelkie spory wynikające z korzystania z aplikacji będą rozstrzygane przez właściwy sąd powszechny zgodnie z obowiązującymi przepisami prawa.</p>
 
-#### **Dziękujemy za korzystanie z naszej Aplikacji i życzymy smacznych dań!**
+#### **Dziękujemy za korzystanie z naszej aplikacji i życzymy smacznych dań!**

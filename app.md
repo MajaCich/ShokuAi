@@ -11,6 +11,8 @@ Jako zespół, chcielibyśmy poinformować, że nasza aplikacja została już wy
 <img src="assets\images\sklep_1.png">
 <img src="assets\images\sklep_2.png">
 
+* * *
+
 Zachęcamy do zainstalowania aplikacji bezpośrednio z naszej strony:
 
 <div class="center">

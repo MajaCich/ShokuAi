@@ -22,7 +22,8 @@ order: 1
         2. [Losowy przepis](#losowy-przepis)  
         3. [Wybrany przepis](#wybrany-przepis)  
         4. [Zapisanie przepisu od AI](#zapisanie-przepisu-od-ai)  
-    2. [Własny przepis](#własny-przepis)  
+    2. [Własny przepis](#własny-przepis)
+    3. [Przepis ze zdjęcia](#przepis-zdjęcie)
 2. [Ulubione](#ulubione)  
 3. [Szczegóły przepisu](#szczegóły-przepisu)  
 4. [Lista zakupów](#lista-zakupów)  
@@ -91,6 +92,15 @@ Rozwiń menu (1) i wybierz przycisk (2). Na ukazanej stronie należy dodać wyma
   <img src="assets\images\ss_plus.jpg" alt="ss_plus">
   <img src="assets\images\ss_plus_wlasny.jpg" alt="ss_plus_wlasny">
   <img src="assets\images\ss_dodaj.jpg" alt="ss_dodaj">
+</div>
+
+### 1.3. Przepis ze zdjęcia {#przepis-zdjęcie}
+Rozwiń menu (1) i wybierz przycisk (2). Na ukazanej stronie należy dodać zdjęcie dania lub składników i zatwierdzić przyciskiem _“Proponuj!”_. Sztuczna inteligencja zaproponuje przepis na podstawie tego zdjęcia.
+
+<div class="image-row">
+  <img src="assets\images\ss_plus.jpg" alt="ss_plus">
+  <img src="assets\images\ss_plus_wlasny.jpg" alt="ss_plus_zdj">
+  <img src="assets\images\ss_dodaj.jpg" alt="ss_zdj">
 </div>
 
 ## 2. Ulubione {#ulubione}

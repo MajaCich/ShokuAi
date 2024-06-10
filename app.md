@@ -6,6 +6,12 @@ permalink: /app.html
 ref: app
 order: 0
 ---
+Jako zespół, chcielibyśmy poinformować, że nasza aplikacja została już wysłana do sklepu Google Play, gdzie aktualnie przechodzi proces weryfikacji, który jest standardową procedurą i może potrwać jeszcze kilka dni.
+
+<img src="assets\images\sklep_1.png">
+<img src="assets\images\sklep_2.png">
+
+Zachęcamy do zainstalowania aplikacji bezpośrednio z naszej strony:
 
 <div class="center">
   <a href="{{ site.github.apk_url }}" class="btnColor">Pobierz aplikację</a>

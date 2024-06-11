@@ -9,7 +9,7 @@ order: 0
 Nasza aplikacja dostępna jest już w sklepie Google Play. Zachęcamy do pobrania!
 Link do Google Play:
 <div class="center">
-  <a href="{{ https://play.google.com/store/apps/details?id=pl.umk.my_app }}" class="btnColor">Sklep Play</a>
+  <a href="https://play.google.com/store/apps/details?id=pl.umk.my_app" class="btnColor">Sklep Play</a>
 </div>
 
 

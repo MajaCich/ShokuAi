@@ -6,14 +6,16 @@ permalink: /app.html
 ref: app
 order: 0
 ---
-Jako zespół, chcielibyśmy poinformować, że nasza aplikacja została już wysłana do sklepu Google Play, gdzie aktualnie przechodzi proces weryfikacji, który jest standardową procedurą i może potrwać jeszcze kilka dni.
+Nasza aplikacja dostępna jest już w sklepie Google Play. Zachęcamy do pobrania!
+Link do Google Play:
+<div class="center">
+  <a href="{{ https://play.google.com/store/apps/details?id=pl.umk.my_app }}" class="btnColor">Sklep Play</a>
+</div>
 
-<img src="assets\images\sklep_1.png">
-<img src="assets\images\sklep_2.png">
 
 * * *
 
-Zachęcamy do zainstalowania aplikacji bezpośrednio z naszej strony:
+Zachęcamy również do zainstalowania aplikacji bezpośrednio z naszej strony:
 
 <div class="center">
   <a href="{{ site.github.apk_url }}" class="btnColor">Pobierz aplikację</a>
